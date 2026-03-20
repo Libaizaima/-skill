@@ -1,0 +1,7 @@
+openpyxl
+xlrd
+python-docx
+pandas
+pdfplumber
+rarfile
+openai

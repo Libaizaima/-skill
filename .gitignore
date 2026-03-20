@@ -1,0 +1,30 @@
+# ── Python 虚拟环境（绝对不要提交）──
+.venv/
+venv/
+env/
+
+# ── 敏感配置（含账号密码、API Key）──
+config.json
+web_config.json
+
+# ── 运行时生成的数据 ──
+input/          # 上传的 ZIP 文件
+output/         # 生成的分析报告
+web/db/         # SQLite 历史数据库
+tmp/
+
+# ── Python 编译文件 ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── 系统文件 ──
+.DS_Store
+Thumbs.db
+
+# ── IDE ──
+.idea/
+.vscode/
+*.swp
