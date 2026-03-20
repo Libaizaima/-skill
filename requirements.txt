@@ -1,7 +1,17 @@
+# 文档解析
 openpyxl
 xlrd
 python-docx
 pandas
 pdfplumber
+numpy
+
+# 压缩文件
 rarfile
+
+# AI / LLM
 openai
+
+# Web 服务
+flask
+gunicorn
